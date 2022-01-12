@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-port/static/css/main.f3a9e25d.chunk.css",
+    "main.js": "/react-port/static/js/main.c00f8466.chunk.js",
+    "main.js.map": "/react-port/static/js/main.c00f8466.chunk.js.map",
+    "runtime-main.js": "/react-port/static/js/runtime-main.127fd7ee.js",
+    "runtime-main.js.map": "/react-port/static/js/runtime-main.127fd7ee.js.map",
+    "static/js/2.23afabbe.chunk.js": "/react-port/static/js/2.23afabbe.chunk.js",
+    "static/js/2.23afabbe.chunk.js.map": "/react-port/static/js/2.23afabbe.chunk.js.map",
+    "index.html": "/react-port/index.html",
+    "static/css/main.f3a9e25d.chunk.css.map": "/react-port/static/css/main.f3a9e25d.chunk.css.map",
+    "static/js/2.23afabbe.chunk.js.LICENSE.txt": "/react-port/static/js/2.23afabbe.chunk.js.LICENSE.txt",
+    "static/media/Avatar.10547788.jpg": "/react-port/static/media/Avatar.10547788.jpg",
+    "static/media/BudgetTracker.98266cb5.png": "/react-port/static/media/BudgetTracker.98266cb5.png",
+    "static/media/Daily.b58b5440.png": "/react-port/static/media/Daily.b58b5440.png",
+    "static/media/DragonBlaster.18228fe3.png": "/react-port/static/media/DragonBlaster.18228fe3.png",
+    "static/media/KnowMore.2579647e.png": "/react-port/static/media/KnowMore.2579647e.png",
+    "static/media/ThereAndBack.f81b6bfa.png": "/react-port/static/media/ThereAndBack.f81b6bfa.png",
+    "static/media/UbiquitousHappi.b42e24a4.png": "/react-port/static/media/UbiquitousHappi.b42e24a4.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.127fd7ee.js",
+    "static/js/2.23afabbe.chunk.js",
+    "static/css/main.f3a9e25d.chunk.css",
+    "static/js/main.c00f8466.chunk.js"
+  ]
+}
